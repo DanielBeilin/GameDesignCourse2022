@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - maindoor_left
+  - mainDoor
+  - maindoor_right
+  - waypoints_ghost_1
+  - waypoints_ghost_2
+  - waypoints_ghost_3
+  - skull_waypoint_5
+  - skull_waypoint_4
+  - skull_waypoint_7
+  - skull_waypoint_6
+  - skull_waypoint_2
+  - skull_waypoint_3
+  - skull_waypoint_1
+  - Reaper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - minimap
+  - level
+  - reaper
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
